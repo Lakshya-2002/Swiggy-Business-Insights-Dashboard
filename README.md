@@ -15,7 +15,7 @@
 📌 Data Source -- Dataset sourced from an online food-delivery analytics website containing order-level details such as sales amount, order count, delivery city, restaurant name, food type, customer ratings, and quarterly performance.
 
 
-📌 5. Business Problem & Goal -- Food delivery companies face challenges in understanding regional demand, customer preferences, restaurant performance, and revenue patterns, resulting in missed growth opportunities.
+📌 Business Problem & Goal -- Food delivery companies face challenges in understanding regional demand, customer preferences, restaurant performance, and revenue patterns, resulting in missed growth opportunities.
 
 🎯 Goal of the Dashboard
 | Objective                            | Description                                                                                          |
@@ -28,5 +28,5 @@
 | **Trend Evaluation**                 | Evaluate month-wise and quarter-wise sales performance to track growth and seasonality               |
 
 
-📌 7. Dashboard Looks Like-- ![Dashboard Preview](https://github.com/Lakshya-2002/Swiggy-Business-Insights-Dashboard/blob/main/Swiggy_Insights.png)
+📌 Dashboard Looks Like-- ![Dashboard Preview](https://github.com/Lakshya-2002/Swiggy-Business-Insights-Dashboard/blob/main/Swiggy_Insights.png)
 
