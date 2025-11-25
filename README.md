@@ -18,9 +18,15 @@
 📌 5. Business Problem & Goal -- Food delivery companies face challenges in understanding regional demand, customer preferences, restaurant performance, and revenue patterns, resulting in missed growth opportunities.
 
 🎯 Goal of the Dashboard
-To provide a single analytics view that enables the Swiggy leadership to:
-Monitor key KPIs in real time (Sales, Orders, Avg Rating, Avg Order Price)
-Identify high-performing and low-performing locations
-Track restaurant-wise contribution to total revenue
-Analyze Veg vs Non-Veg demand patterns
-Evaluate sales trends month-by-month and quarter-by-quarter
+| Objective                            | Description                                                                                          |
+| ------------------------------------ | ---------------------------------------------------------------------------------------------------- |
+| **Unified Analytics View**           | Provide a single interactive dashboard for Swiggy leadership to analyze overall business performance |
+| **Real-time KPI Monitoring**         | Track Sales, Orders, Avg Rating, Avg Order Price instantly                                           |
+| **Location Performance Insights**    | Identify high-performing and low-performing cities/regions across India                              |
+| **Restaurant-wise Revenue Analysis** | Understand which restaurants contribute the most to total sales                                      |
+| **Customer Preference Analysis**     | Compare Veg vs Non-Veg demand patterns to highlight food consumption trends                          |
+| **Trend Evaluation**                 | Evaluate month-wise and quarter-wise sales performance to track growth and seasonality               |
+
+
+📌 7. Dashboard Looks Like-- ![Dashboard Preview](https://github.com/Lakshya-2002/Swiggy-Business-Insights-Dashboard/blob/main/Swiggy_Insights.png)
+
